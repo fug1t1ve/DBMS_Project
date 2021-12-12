@@ -60,7 +60,7 @@ Health Log will help the hospitals to store there patient's log. It'd be very us
 1. Select ```Menu```, then ```Run``` -> ```Run 'app'```
 1. It will ask for a hospital ID ```Write``` -> ```H1_Sir_Sunderlal_Hospital``` for testing the app
 
-##Individual Contribution
+## Individual Contribution
 1.Shashank - Created the app and worked on the Dashboard feature of the application and also worked on setting up firebase DB
 2.Gourav - Helped in the app and worked on the Doctor feature of the application and helped in consumer_producer project
 3.Deepak - Created the consumer_producer project and setted up the firebase DB
