@@ -62,11 +62,10 @@ Health Log will help the hospitals to store there patient's log. It'd be very us
 
 ## Individual Contribution
 
-1.Shashank - Created the app and worked on the Dashboard feature of the application and also worked on setting up firebase DB
+1.Shashank - Created the app and worked on the Dashboard feature of the application and also worked on setting up firebase DB ,made the consumer and producer for Doctors
+2.Gourav - Helped in the app and worked on the Doctor feature of the application and made the comsumer and producer for patients 
 
-2.Gourav - Helped in the app and worked on the Doctor feature of the application and helped in consumer_producer project
+3.Deepak - Created the consumer_producer project and setted up the firebase DB, made the consumer and producer for hospital
 
-3.Deepak - Created the consumer_producer project and setted up the firebase DB
-
-4.Indy - Worked on the Hospital feature of the application
+4.Indy - Worked on the Hospital feature of the application helped in setting up mongo db and apache kafka
 
