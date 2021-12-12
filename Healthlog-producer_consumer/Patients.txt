@@ -1,0 +1,9 @@
+id P2_dbms_project address xucjjj age 20 dob 1/11/2000 location 0 name dbms_project status Active Hospital_no 0
+id P74_dbms1 address test age 52 dob 1/11/1971 location 1 name dbms1 status Active Hospital_no 0
+id P75_dbms2 address hbehzn age 0 dob 16/10/2021 location 1 name dbms2 status Active Hospital_no 0
+id P0_dbms1 address bdjdnxnn age 0 dob 7/11/2021 location 1 name dbms1 status Active Hospital_no 1
+id P10_vggh address chvj age 0 dob 29/11/2021 location 1 name vggh status Active Hospital_no 1
+id P11_ucgjvjj address jcfhh age 0 dob 22/11/2021 location 1 name ucgjvjj status Active Hospital_no 1
+id P12_ucfjc address jcjc age 0 dob 9/11/2021 location 1 name ucfjc status Active Hospital_no 1
+id P13_jhvg address fggf age 0 dob 15/11/2021 location 1 name jhvg status Active Hospital_no 1
+id P1_bndndn address nfjdn age 0 dob 1/11/2021 location 1 name bndndn status Active Hospital_no 1

@@ -1,0 +1,3 @@
+department Gen id D5_dbms location 1 name DBMS noOfPatients 3 status Available verifyKey 1234 Hostpital_no 0
+department cardiology id D1_dbms location 0 name David noOfPatients 7 status Available verifyKey 4321 Hostpital_no 1
+department neurology id D2_dbms location 0 name Eda noOfPatient 9 status Available verifyKey 3214 Hospital_no 1

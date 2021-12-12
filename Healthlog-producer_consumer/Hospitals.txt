@@ -1,0 +1,2 @@
+name sir_Sunderlal_Hospital address Banaras_Hindu_University,_Semi_Cir_Rd_Number_4,_Bhogabir,_Varanasi,_Uttar_Pradesh_221005 city varanasi district varanasi id H1_Sir_Sunderlal_Hospital state uttar_pradesh Hostpital_no 0
+name galaxy_Hospital address Dayal_Enclave,_4,5,6,7,_Mahmoorganj_Rd,_Near_Railway_Station,_Mahmoorganj,_Varanasi,_Uttar_Pradesh_221010 city varanasi district varanasi id H2_25_82_gal state uttar_pradesh Hostpital_no 1
